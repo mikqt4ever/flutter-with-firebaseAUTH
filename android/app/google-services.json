@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "869913189657",
+    "project_id": "flutter-94892",
+    "storage_bucket": "flutter-94892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869913189657:android:90c6f7a8b9a989e5c0f988",
+        "android_client_info": {
+          "package_name": "com.example.kimapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-EfJr6bFYatZuYDAt1dF9D8Lwf-VOK8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
